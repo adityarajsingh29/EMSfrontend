@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 
 function App() {
-  const API_URL = "https://node-day-2-p01p.onrender.com/employees";
+  const API_URL = "https://emsbackend-2883.onrender.com/employees";
 
   const [employees, setEmployees] = useState([]);
 
